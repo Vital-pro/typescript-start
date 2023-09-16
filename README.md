@@ -1,1 +1,1 @@
-## Basic lesson on TypeScript
+# Basic lesson on TypeScript
